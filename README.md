@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnSnow46
-- 👀 I’m interested in java, C++, C#, C, HTML, CSS
+- 👀 I’m interested in java, C++, C#, C, HTML, CSS, MATLAB
 - 🌱 I’m currently learning HTML & CSS
 
 <!---
