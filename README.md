@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnSnow46
-- 👀 I’m interested in C/C++, C#, C, HTML, CSS, JS, MATLAB, RUST
-- 🌱 I’m currently doing projects in C++
+- 👀 I’m interested in C/C++, C#, .NET, HTML, CSS, JS, MATLAB, RUST
+- 🌱 I’m currently doing projects in C#
 
 <!---
 JohnSnow46/JohnSnow46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
