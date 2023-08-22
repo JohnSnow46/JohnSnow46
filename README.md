@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnSnow46
-- 👀 I’m interested in C/C++, C#, .NET, HTML, CSS, JS, MATLAB, RUST
+- 👀 I’m interested in C/C++, C#, .NET, HTML, CSS, JS
 - 🌱 I’m currently doing projects in C#
 
 <!---
